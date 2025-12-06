@@ -7,11 +7,11 @@ export const defaultConfiguration: Configuration = {
     "",
   color: "15BE6C",
   popupIcon: "", // if empty, /images/popup/icon-default.svg will be used
-  popupMessage: "Experience <b>Amazon Bedrock powered</b> search!",
+  popupMessage: "Experience <b>AI powered</b> search!",
   addUnreadDot: true,
   whitelabel: false,
   lang: "en-US",
-  windowHeading: "Chat with Amazon Bedrock",
+  windowHeading: "Chat with Power Bot",
   welcomeMessage: "👋 Hi! Ask me anything...",
   bottomIndent: 24,
   rightIndent: 24,
